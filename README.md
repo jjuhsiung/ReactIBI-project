@@ -1,6 +1,6 @@
 **Main function:**
-- Gender selection
-- Searching in file path
+- Data filter with gender selection
+- Allow search input in file path
 
 **3 APIs**
 1. All donor data
