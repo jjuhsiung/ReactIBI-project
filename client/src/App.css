@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.result {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 20px;
+}
+
+.text {
+  display: inline-block;
+  width: 100px;
+}
